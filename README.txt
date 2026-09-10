@@ -1,2 +1,3 @@
-Dieser Ordner wird von Godot beim Web/PWA-Export befüllt.
-Projekt > Exportieren > Web PWA > build/web/index.html
+Dieser Ordner wird beim Godot-Webexport befüllt.
+In Godot: Projekt > Exportieren > Web PWA > Projekt exportieren
+Zieldatei: build/web/index.html
